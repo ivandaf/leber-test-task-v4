@@ -1,5 +1,5 @@
 # Тестовое задание компании Лебер
-[![Leber logo](https://lebergroup.ru/logo/images/Leber_logo_main_200px.jpg)](https://leber.ru)
+[![Leber logo](+Leber_logo_main_200px.jpg)](https://leber.ru)
 
 В этом репозитории выложена docker-compose группа, состоящая из трех контейнеров.
 В конфигурации что-то сломано и приложения не работают. Ваша задача починить, собрать и запустить docker-compose. 
